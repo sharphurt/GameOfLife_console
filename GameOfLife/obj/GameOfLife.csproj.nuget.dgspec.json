@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameOfLife\\GameOfLife.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameOfLife\\GameOfLife.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameOfLife\\GameOfLife.csproj",
+        "projectName": "GameOfLife",
+        "projectPath": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameOfLife\\GameOfLife.csproj",
+        "packagesPath": "C:\\Users\\sharphurt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameOfLife\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sharphurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

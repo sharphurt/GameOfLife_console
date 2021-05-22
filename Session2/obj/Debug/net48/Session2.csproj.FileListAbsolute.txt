@@ -1,0 +1,9 @@
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\bin\Debug\net48\Session2.exe.config
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\bin\Debug\net48\Session2.exe
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\bin\Debug\net48\Session2.pdb
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.csprojAssemblyReference.cache
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.AssemblyInfoInputs.cache
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.AssemblyInfo.cs
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.csproj.CoreCompileInputs.cache
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.exe
+C:\Users\sharphurt\RiderProjects\GameOfLife_console\Session2\obj\Debug\net48\Session2.pdb

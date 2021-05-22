@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameTests\\GameTests.csproj",
+    "projectName": "GameTests",
+    "projectPath": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameTests\\GameTests.csproj",
+    "outputPath": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\GameTests\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {},
+      "https://nuget.telerik.com/nuget": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {
+          "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\Session2\\Session2.csproj": {
+            "projectPath": "C:\\Users\\sharphurt\\RiderProjects\\GameOfLife_console\\Session2\\Session2.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "dependencies": {
+        "FluentAssertions": {
+          "target": "Package",
+          "version": "[5.10.3, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.5.0, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.13.2, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.16.1, )"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
